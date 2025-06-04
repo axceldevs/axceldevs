@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/banner.jpeg)
 
 ## 👋 Hi there, I'm Cristian Bambague
 
