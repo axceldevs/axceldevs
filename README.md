@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 ## 👋 Hi there, I'm Cristian Bambague
 
 **Fullstack Software Developer | Java & Angular Specialist | Cloud Enthusiast**
